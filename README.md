@@ -26,15 +26,18 @@
 4. Check out github.com/explore. Find one open source project that's interesting to you and star it (maybe a tool that you've worked with).
 
 
-# All About Brynn
+# All About You
 
 1. Which Nanodegree have you taken?
-Android
+
+  Android
 
 2. Which Octocat is your favorite?
-Baracktocat
+
+  Baracktocat
 
 3. What text editor do you use?
-Android Studio and Sublime. Back in the day, Vim and Eclipse.
+
+  Android Studio and Sublime. Back in the day, Vim and Eclipse.
 
 4. What questions do you want to ask?
