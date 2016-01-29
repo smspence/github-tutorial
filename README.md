@@ -2,12 +2,13 @@
 
 1. Get in a group with 4-5 people.
 
-2. Show off your knowledge of Gitflow with a README.
-
+2. Show off your knowledge of Gitflow with a README. 
+3. 
   - One team member must fork this repo.
   - That person must give everyone in the group access to edit the repo.
   - A "develop" branch must be created from the master.
-  - Everyone must create their own "feature" branch named after your Github username, erase my answers, and respond to the questions below.
+  - Everyone will download the shared repo to their local machines.
+  - Everyone must create their own "feature" branch named after your Github username, erase my answers, and respond to the questions below. You must create a new branch with "git checkout -b branch-name".
   - 2-3 people must merge their changes with "develop", then create one shared "release" branch and push to Github.
   - Another person then adds their changes to "develop", then "release", then push the updated "release" branch to Github as "master".
   - The last person must rebase to the new master branch, add their branch as a new "hotfix" branch, then merge it with master.
