@@ -2,8 +2,8 @@
 
 1. Get in a group with 4-5 people.
 
-2. Show off your knowledge of Gitflow with a README. 
-3. 
+2. Show off your knowledge of Gitflow with a README.
+3.
   - One team member must fork this repo.
   - That person must give everyone in the group access to edit the repo.
   - A "develop" branch must be created from the master.
@@ -20,7 +20,7 @@
   - Make sure you have at least 1 project on Github.
   - Look at a teammate's repo.
   - Star it.
-  - Leave an issue report about the documentation: 
+  - Leave an issue report about the documentation:
     - Do they have pictures that give you a good sense of what the project does?
     - Does the documentation explain the different methods and files in the projects?
     - Do their commit messages follow Udacity's style guide: https://udacity.github.io/git-styleguide/
@@ -32,14 +32,16 @@
 
 1. Which Nanodegree have you taken?
 
-  Android
+  Data Analyst
 
 2. Which Octocat is your favorite?
 
-  Baracktocat
+  Octocat??
 
 3. What text editor do you use?
 
-  Android Studio and Sublime. Back in the day, Vim and Eclipse.
+  Atom and Gedit
 
 4. What questions do you want to ask?
+
+  Why?
