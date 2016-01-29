@@ -7,9 +7,9 @@
   - One team member must fork this repo.
   - That person must give everyone in the group access to edit the repo.
   - A "develop" branch must be created from the master.
-  - Everyone must create their own "feature" branch, erase my answers, and respond to the questions below.
-  - 2-3 people must merge their changes with "develop", then create a "release" branch.
-  - Another person then adds their changes to "develop", then "release", then "master".
+  - Everyone must create their own "feature" branch named after your Github username, erase my answers, and respond to the questions below.
+  - 2-3 people must merge their changes with "develop", then create one shared "release" branch and push to Github.
+  - Another person then adds their changes to "develop", then "release", then push the updated "release" branch to Github as "master".
   - The last person must rebase to the new master branch, add their branch as a new "hotfix" branch, then merge it with master.
   - Another team member must make another hotfix branch to bold the questions.
   - One team member (different!) must submit a pull request to my repo with their group's changes.
