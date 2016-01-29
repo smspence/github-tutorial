@@ -11,6 +11,7 @@
   - 2-3 people must merge their changes with "develop", then create a "release" branch.
   - Another person then adds their changes to "develop", then "release", then "master".
   - The last person must rebase to the new master branch, add their branch as a new "hotfix" branch, then merge it with master.
+  - Another team member must make another hotfix branch to bold the questions.
   - One team member (different!) must submit a pull request to my repo with their group's changes.
 
 3. Interact with a teammate's repo
